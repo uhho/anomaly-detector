@@ -1,0 +1,29 @@
+{
+  "name": "anomaly-detector",
+  "version": "0.1",
+  "description": "Data anomaly detector for NodeJS",
+  "main": "./lib/index.js",
+  "keywords": [
+    "anomaly",
+    "detector",
+    "mongo"
+  ],
+  "contributors": [
+    {
+      "name": "Lukasz Krawczyk",
+      "email": "contact@lukaszkrawczyk.eu"
+    }
+  ],
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/LuakszKrawczyk/anomaly-detector.git"
+  },
+  "dependencies": {
+    "mongodb": "~1.3.19"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
