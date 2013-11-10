@@ -3,7 +3,9 @@ Data anomaly detector for NodeJS
 
 ## Instalation ##
 
-Copy directory to your project folder under node_modules
+```
+npm install anomaly-detector
+```
 
 ## Examples ##
 
