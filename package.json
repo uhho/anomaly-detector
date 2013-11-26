@@ -1,6 +1,6 @@
 {
   "name": "anomaly-detector",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Data anomaly detector for NodeJS",
   "main": "./lib/index.js",
   "keywords": [
@@ -30,10 +30,10 @@
   "bugs": {
     "url": "https://github.com/LukaszKrawczyk/anomaly-detector/issues"
   },
-  "_id": "anomaly-detector@0.1.0",
+  "_id": "anomaly-detector@0.1.3",
   "dist": {
     "shasum": "a9674d090e35fc057b1a230c09eac62962348bdc"
   },
   "_from": "anomaly-detector@",
-  "_resolved": "https://registry.npmjs.org/anomaly-detector/-/anomaly-detector-0.1.0.tgz"
+  "_resolved": "https://registry.npmjs.org/anomaly-detector/-/anomaly-detector-0.1.3.tgz"
 }
