@@ -1,13 +1,13 @@
-# Anomaly Detector #
+# Anomaly Detector [![NPM version](https://badge.fury.io/js/anomaly-detector.png)](http://badge.fury.io/js/anomaly-detector)
 Data anomaly detector for NodeJS
 
-## Instalation ##
+## Instalation
 
 ```
 npm install anomaly-detector
 ```
 
-## Examples ##
+## Examples
 
 ### Training classifier
 ```js
@@ -73,13 +73,13 @@ detector.init(detector.default_options, function(){
 
 ```
 
-## Next releases ##
+## Next releases
 
 * File data source
 * Error handling
 * Different detection methods
 
-## License ##
+## License
 
 Software is licensed under MIT license.
 For more information check LICENSE file.
