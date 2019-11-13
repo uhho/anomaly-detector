@@ -21,7 +21,8 @@
     "url": "git://github.com/LukaszKrawczyk/anomaly-detector.git"
   },
   "dependencies": {
-    "mongodb": "*"
+    "mongodb": "*",
+    "redis": "^2.8.0"
   },
   "devDependencies": {
     "mocha": "*"

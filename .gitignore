@@ -218,3 +218,8 @@ pip-log.txt
 ## NetBeans
 #############
 nbproject/
+
+#############
+## NodeJS
+#############
+node_modules/
